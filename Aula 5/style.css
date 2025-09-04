@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.bloco1{
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    background-color:rgb(224, 254, 255); 
+    margin: 5px;
+    padding: 20px;
+}
+
+.bloco2{
+    background-color: rgb(255, 255, 0);
+}
+.bloco2{
+    border: 10px solid rgb(180, 16, 4);
+    border-radius: 8px;
+    background-color:rgb(255, 70, 190);
+    margin: 5px;
+    padding: 20px;
+}
+.bloco3{
+    border: 10px solid rgb(2, 27, 79);
+    border-radius: 8px;
+    background-color:rgb(65, 92, 211); 
+    margin: 5px;
+    padding: 20px;
+}
+.bloco4{
+    border: 10px solid rgb(31, 30, 30);
+    border-radius: 8px;
+    background-color:white; 
+    margin: 5px;
+    padding: 20px;
+}
