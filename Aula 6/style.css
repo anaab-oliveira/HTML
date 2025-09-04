@@ -1,0 +1,88 @@
+.bloco0{
+    color: rgb(70, 70, 255);
+}
+
+#Primeiro{
+    background-color: yellow;
+}
+.bloco1{
+    color: green;
+}
+li{
+    color: red;
+}
+#segundo{
+    color: blueviolet;
+}
+#terceiro{
+    color: aquamarine;
+}
+.bloco2{
+    color: red;
+}
+#quarta{
+    text-align: center;
+}
+#youtube{
+    color: red;
+}
+#google{
+    color: rgb(0, 38, 255);
+}
+.bloco3{
+    font-weight: bold;
+}
+img{
+    border: 8px solid rgb(8, 8, 59);
+    height: 200px;
+}
+.bloco4 p{ 
+    color: rgb(10, 158, 35);
+}
+.bloco5{
+    color: chocolate;
+}
+.bloco6{
+    color: blanchedalmond;
+}
+#quinto{
+    font-family: Arial;
+}
+.bloco7{
+    font-weight: bold;
+}
+.bloco8{
+    font-style: italic;
+}
+.bloco9{
+    text-decoration: underline;
+}
+
+.bloco10{
+    background-color: cadetblue;
+}
+#sexto{
+    color: red;
+}
+#setimo{
+    color: blue;
+}
+#oitavo{
+    color: green;
+}
+span{
+    font-weight: bold;
+}
+#nono{
+    background-color: antiquewhite;
+    border: 6px solid color purple
+}
+.bloco11{
+    text-decoration: underline;
+}
+.bloco12{
+    color: bisque;
+}
+.bloco12 a{
+    color: black;
+}
