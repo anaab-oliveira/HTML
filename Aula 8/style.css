@@ -1,0 +1,212 @@
+.mercado{
+    border:solid black;
+}
+.mercado th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+}
+
+
+
+.cadastro{
+    border: solid black;
+}
+.cadastro th{
+    background-color: grey;
+    color: white;
+}
+
+
+
+.agenda{
+    border: solid black;
+}
+.agenda td{
+    color: blue;
+}
+.agenda th{
+    background-color: aqua;
+    color: black;
+}
+
+
+
+.catalogo{
+    border: solid black;
+    font-family: Arial;
+}
+.catalogo th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+}
+
+
+
+.notas{
+    border: solid black;
+}
+.notas th{
+    background-color: rgb(7, 5, 69) ;
+    font-size: x-large;
+    color: white;
+}
+
+
+
+.cardapio{
+    border: solid black;
+    background-color: aquamarine;
+}
+.cardapio th{
+    background-color: white;
+    color: black;
+}
+
+
+
+.aulas{
+    text-align: center;
+    border: solid black;
+}
+.aulas th{
+    background-color: rgb(7,5, 69);
+    color: white;
+}
+
+.campeonato{
+    border: solid black 10px;
+}
+.campeonato th{
+    padding-right: 5px;
+    background-color: darkgoldenrod;
+}
+.campeonato td{
+    padding-right: 10px; ;
+    text-align: center;
+}
+
+.lista{
+    border: solid black;
+}
+.lista th{
+    background-color: red;
+}
+
+
+
+.filmes{
+    border: solid black;
+    padding: 20px;
+
+}
+.filmes th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+}
+.filmes td{
+    text-align: center;
+}
+
+.frutas{
+    border: solid black;
+}
+.frutas th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+}
+.frutas td{
+    font-style: italic;
+}
+
+
+
+.tabuada{
+    border: solid black;
+}   
+        
+
+.tabuada td{
+   font-weight: bold;
+}
+
+
+.materias{
+    border: solid black;
+}
+.materias2{
+    background-color: plum;
+}
+
+
+.funcionarios{
+    border: solid black;
+}
+.funcionarios td{
+    background-color: green;
+}
+
+
+
+.eventos{
+    border: solid black ;
+}
+.dia{
+    background-color: grey;
+}
+.festadaUva{
+    background-color: grey;
+}
+.poá{
+    background-color: grey;
+}
+
+
+
+.boletim{
+    border: solid black;
+}
+.boletim th{
+    background-color: rgb(7, 5, 69);
+    color: aqua;
+}
+.boletim td{
+    text-align: center;
+}
+
+
+.paises{
+    border: solid black;
+}
+.paises th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+}
+.paises td{
+    text-transform: uppercase;
+}
+
+
+
+.livro{
+    border: solid black;
+}
+
+.livro th{
+    background-color: rgb(7, 5, 69);
+    color: white;
+    font-family: monospace;
+}
+
+
+
+.series{
+    border: solid black;
+}
+.series th{
+    background-color: violet;
+    color: rgb(0, 0, 0);
+}
+.series td{
+    background-color: aquamarine;
+    color: rgb(218, 0, 247);
+}
