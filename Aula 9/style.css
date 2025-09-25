@@ -1,0 +1,46 @@
+.horarios{
+    border: solid black;
+}
+.horarios th{
+    background-color: aquamarine;
+}
+.horarios td{
+    text-align: center;
+}
+
+.times{
+    border: solid black 5px;
+}
+.times td:nth-child(2){
+    color: darkblue;
+    font-weight: bolder;
+}
+.times th{
+    background-color: goldenrod;
+}
+.time{
+    background-color: red;
+}
+ .p{
+    background-color: red;
+ }
+ .v{
+    background-color: red;
+ }
+ .d{
+    background-color: red;
+ }
+ .e{
+    background-color: red;
+ }
+
+
+ .produto{
+    border: solid black 8px
+ }
+ img{
+    height: 50px;
+ }
+ .produto th{
+    background-color: violet;
+ }
