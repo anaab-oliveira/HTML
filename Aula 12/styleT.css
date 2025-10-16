@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3fc;
+    margin: 0;
+    color: #333;
+}
+
+
+header {
+    background-color: #371175;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+.conteudo {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.conteudo p {
+    line-height: 1.6;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+mark {
+    background-color: #c7b8f5;
+    color: #2a0e66;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+
+footer {
+    background-color: #371175;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
